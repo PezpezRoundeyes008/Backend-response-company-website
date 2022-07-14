@@ -1,0 +1,38 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+#heading_promo {
+  text-align: left;
+  padding: 20px;
+  background: url("../../assets/img/electronics-showroom-lagos-1024x672.jpg");
+  background-size: cover;
+}
+
+div.jumbotron {
+  border-radius: 15px;
+  margin: 30px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+#row-border {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#Toolbutton {
+  padding: 10px;
+  /*float: right;*/
+}
+
+#ToolbuttonList {
+  float: right;
+}
+
+#Container_Table {
+}
+
+#Function_list {
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
